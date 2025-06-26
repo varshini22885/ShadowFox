@@ -2,7 +2,7 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import { MapPin, Phone, Mail, Clock, Facebook, Instagram, Twitter } from 'lucide-react';
 
-const Footer =React.FC () => {
+const Footer = () => {
   const treatments = [
     'Teeth Cleaning & Scaling',
     'Dental Implants',
